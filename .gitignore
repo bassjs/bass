@@ -94,3 +94,4 @@ bower_components
 *.map
 
 .cache
+config.json
